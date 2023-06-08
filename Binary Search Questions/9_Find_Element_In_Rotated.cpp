@@ -10,7 +10,7 @@ int main(){
    {
    	cin>>arr[i];
    }
- 
+ // hi there 
 
 
 return 0;
